@@ -8,5 +8,7 @@ The STL file for the grip replicates the titled pistol to enable the user to clo
 The CZ trigger is currently in Beta. Any and all feedback is welcome.
 
 If you would like to purchase a high quality printed handset with added weights, send me an email at kirt@mckennadynamics.com
+
 Check out my website at www.mckennadynamics.com
+
 Instagram: @mckenna_dynamics; @competition.shooting.analytics
