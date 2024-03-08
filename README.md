@@ -7,8 +7,8 @@ The STL file for the grip replicates the titled pistol to enable the user to clo
 
 The CZ trigger is currently in BETA. Any and all feedback is welcome.
 
-The grips were designed by Ben49 on thingiverse ([https://www.thingiverse.com/ben49/designs](https://www.thingiverse.com/thing:2190338))
+The grips were designed by Ben49 on thingiverse (https://www.thingiverse.com/thing:2190338)
 
 Check out my website at www.mckennadynamics.com
 
-Instagram: @mckenna_dynamics; @competition.shooting.analytics
+Instagram: @mckenna_dynamics; [@competition.shooting.analytics](https://www.instagram.com/competition_shooting_analytics/?hl=en)
