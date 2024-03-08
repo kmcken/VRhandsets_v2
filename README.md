@@ -11,4 +11,4 @@ The grips were designed by Ben49 on thingiverse (https://www.thingiverse.com/thi
 
 Check out my website at www.mckennadynamics.com
 
-Instagram: @mckenna_dynamics; [@competition.shooting.analytics](https://www.instagram.com/competition_shooting_analytics/?hl=en)
+Instagram: [@mckenna_dynamics](https://www.instagram.com/mckenna_dynamics/?hl=en); [@competition.shooting.analytics](https://www.instagram.com/competition_shooting_analytics/?hl=en)
